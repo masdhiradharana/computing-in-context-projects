@@ -2,4 +2,4 @@ title: Project 3
 author: Mas Dhiradharana
 
 execute:
-  execute_notebooks: off
+  execute_notebooks: force
