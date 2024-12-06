@@ -1,3 +1,9 @@
 ## Welcome to Mas's Python Projects
 
-This page contains all the projects I completed during the second half of the Computing in Context course at SIPA, Columbia University. I would like to thank Prof. Aidan Feldman and all the TAs for all the guidance through out the semester. Please enjoy the read, and if you have any feedback or questions, feel free to send an email to md4204@columbia.edu.
+Hey everyone!
+
+This page is all about the projects I worked on during the second half of the Computing in Context (Python) course at SIPA, Columbia University. Honestly, it’s been such a journey—there were ups and downs, but I learned so much along the way.
+
+I want to thank Prof. Aidan Feldman and the amazing TAs for their patience, support, and for pushing me to do my best.
+
+Hope you enjoy checking this out as much as I enjoyed working on it. Thank you!
