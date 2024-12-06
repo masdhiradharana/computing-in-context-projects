@@ -1,7 +1,5 @@
 format: jb-book
 root: index
 chapters:
-- file: path/to/chapter1
-- file: path/to/chapter2
-- file: path/to/chapter3
+- file: project_3.ipynb
 
