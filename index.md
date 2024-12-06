@@ -6,4 +6,4 @@ This page is all about the projects I worked on during the second half of the Co
 
 I want to thank Prof. Aidan Feldman and the amazing TAs for their patience, support, and for pushing me to do my best.
 
-Hope you enjoy checking this out as much as I enjoyed working on it. Thank you!
+Hope you enjoy reading this as much as I enjoyed working on it. Thank you!
